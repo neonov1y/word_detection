@@ -4,7 +4,7 @@ The blog post can be found here:  https://medium.com/@alexey_n/word-detection-in
 
 During the project, I investigated Statistical Learning methods such as Logistic Regression and SVM (with L1 norm regularization) for specific word detection in audio recordings with speech. I also used clustering for model improvement. STFT (Short Time Fourier Transform) coefficients of the audio signal were used as features.
 
-The code concentrated in one file and include functions which implements: STFT transform, analysis of data set, models training and testing ana analysis using clustering. Also, provided the dataset which used for training and testing and it can be found in "data" directory.
+The code concentrated in one file (word_detection.py) and include functions which implements: STFT transform, analysis of dataset, models training and testing ana analysis using clustering. Also, provided the dataset which used for training and testing and it can be found in "data" directory.
 
 See below the functions discription.
 
