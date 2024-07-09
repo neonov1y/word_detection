@@ -42,7 +42,7 @@ Output:
 **test_mult(train_test=True, silence_cancel=False)** - testing of Logistic Regression and SVM models (plots performance information)
 ```
 Input:
-   train_test - boolean flag which defined if to use training set or testing set
+   train_test - boolean flag which defines if to use training set or testing set
    silence_cancel - - flag used to set preproceccing option for silence removal in start of the audio (should be the same value as used in train_model function)
 Output:
 ```
