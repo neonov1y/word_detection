@@ -1,6 +1,6 @@
 Here I am sharing the code from a project on specific word detection in audio with speech. The purpose was to investigate the methods and create a proof-of-concept application, but not to achieve the best performance.
 
-The blog post can be found here:  
+The blog post can be found here:  https://medium.com/@alexey_n/word-detection-in-audio-using-stft-5b355e5e3b23
 
 During the project, I investigated Statistical Learning methods such as Logistic Regression and SVM (with L1 norm regularization) for specific word detection in audio recordings with speech. I also used clustering for model improvement. STFT (Short Time Fourier Transform) coefficients of the audio signal were used as features.
 
