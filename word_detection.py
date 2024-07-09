@@ -105,7 +105,7 @@ def get_set():
     return train_list, test_list
 
 
-def stft_clustering(seed=1, plots=False, silence_cancel=False, clustering=False):
+def stft_clustering(seed=1):
     files_list_ext, test_list_ext = get_set()
     print("Clustering:")
     print("\tTrain Set Length:", len(files_list_ext))
